@@ -11,4 +11,4 @@ assignees: ''
 
 **Why you feel it would be a good addition**:
 
-**Screenshots or examples** (If applicable):
+**Screenshots or Visual concept** (If applicable):
