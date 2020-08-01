@@ -21,4 +21,4 @@ assignees: ''
 
 **Browser Version**:
 
-**Additional information / screenhots**
+**Additional information / screenshots:**
